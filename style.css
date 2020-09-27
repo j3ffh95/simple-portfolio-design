@@ -64,3 +64,23 @@ h2 {
   text-align: right;
   font-size: 1.5rem;
 }
+
+h2 span {
+  background-color: #556272;
+  color: #fff;
+  display: inline-block;
+  padding: 2rem;
+}
+
+h2 span:last-child {
+  transform: translate(-1rem, -1rem);
+}
+
+i {
+  color: #fff;
+  opacity: 0.3;
+  font-size: 30rem;
+  position: fixed;
+  top: 10rem;
+  right: 15rem;
+}
