@@ -44,4 +44,9 @@ a {
   text-align: right;
 }
 
-ul
+ul {
+  position: fixed;
+  top: 20rem;
+  right: 5rem;
+  font-size: 2rem;
+}
