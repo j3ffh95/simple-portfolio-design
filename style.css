@@ -1,1 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./bg.png");
+  background-size: cover;
+  background-position: center center;
+  font-family: "Robto", sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  padding: 2rem;
+}
