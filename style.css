@@ -84,3 +84,14 @@ i {
   top: 10rem;
   right: 15rem;
 }
+
+@media screen and (max-width: 768px) {
+  * {
+    position: static !important;
+    max-width: 100%;
+  }
+
+  i.fas {
+    display: none;
+  }
+}
