@@ -13,3 +13,12 @@ body {
   min-height: 100vh;
   padding: 2rem;
 }
+
+p {
+  color: #29415e;
+  font-size: 2rem;
+  width: 700px;
+  position: fixed;
+  top: 4rem;
+  left: 3rem;
+}
