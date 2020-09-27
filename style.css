@@ -22,3 +22,14 @@ p {
   top: 4rem;
   left: 3rem;
 }
+
+h1 {
+  background-color: #fff;
+  display: inline-block;
+  font-size: 5rem;
+  font-weight: 200;
+  padding: 1.5rem;
+  position: fixed;
+  top: 15rem;
+  left: 2rem;
+}
